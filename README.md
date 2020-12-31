@@ -1,0 +1,2 @@
+# stuinfo
+Student Informations
